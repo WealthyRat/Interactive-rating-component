@@ -66,8 +66,8 @@ updateSelectedScoreRate(selectedScoreRate);
 //
 
 
-mainCard.style.display = "none"
-ratingCard.style.display = "flex"
+mainCard.style.display = "flex"
+ratingCard.style.display = "none"
 
 function submit() {
 
